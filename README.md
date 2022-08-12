@@ -1,0 +1,1 @@
+Hasil project dari article [Mencoba Serverless Function di Netlify Menggunakan Golang](https://personal-blog-dcff3.web.app/article/cf94c422-a698-4d03-8c47-0a6b0b4833b9)
